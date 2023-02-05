@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  border: outset;
+  background: turquoise;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: MediumTurquoise;
+}
+
+.picture-style {
+  height: 400px;
+  width: auto;
+}
